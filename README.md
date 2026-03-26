@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/pacman-contribution-graph.svg">
@@ -37,4 +33,10 @@
   <a href="https://join.slack.com/shareDM/zt-3tc18i8pz-rFfLgjvv8Wo8A~HtTV5KFA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/snake.svg" alt="Snake animation" />
 </div>
