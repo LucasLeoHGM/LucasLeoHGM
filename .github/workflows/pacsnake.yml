@@ -2,29 +2,32 @@ name: Generate Pacman + Snake Animations
 
 on:
   schedule:
-    - cron: "0 */12 * * * 
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
       - main
+
+concurrency:
+  group: "animations"
+  cancel-in-progress: true
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Generate snake.svg
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -33,7 +36,6 @@ jobs:
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
