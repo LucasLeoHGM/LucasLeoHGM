@@ -1,15 +1,5 @@
 <p align="left">
-👋 Hi, I'm Lucas Henrique!
 
-💻 Software Engineering student passionate about technology, problem-solving, and building impactful solutions. I have experience with multiple programming languages and tools, ranging from low-level development with C/C++ to modern web technologies like JavaScript, TypeScript, and React.
-
-🚀 I enjoy working on projects that involve system design, software architecture, and performance optimization, always applying best practices such as clean code, testing, and version control.
-
-📊 Currently exploring data analysis, backend development, and scalable systems, while continuously improving my skills through hands-on projects and academic work.
-
-🌐 Open-source enthusiast and always eager to learn, collaborate, and contribute to meaningful projects.
-
-🔗 Connect with me on LinkedIn: https://linkedin.com/in/lucas-henrique-hgm
 </p>
 
 ###
