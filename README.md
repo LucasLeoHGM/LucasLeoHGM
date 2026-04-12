@@ -1,4 +1,8 @@
-<p align="left">
+<h1>👋 Hi, I'm Lucas Henrique</h1>
+
+<p>
+Software Engineering student focused on <strong>backend and fullstack development</strong>. 
+I have experience with academic and personal projects, including web applications, API integration, and databases.
 </p>
 
 ###
