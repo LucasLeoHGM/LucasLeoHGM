@@ -28,7 +28,7 @@ Software Engineering student focused on <strong>backend and fullstack developmen
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/lucas-henrique-hgm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
