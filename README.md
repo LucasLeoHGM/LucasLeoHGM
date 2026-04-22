@@ -27,8 +27,25 @@ Software Engineering student focused on <strong>backend and fullstack developmen
 </div>
 
 ###
-<p align="left"><a href="https://linkedin.com/in/lucas-henrique-hgm" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" /></a><a href="https://discord.com/users/285231836207120385" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" /></a><a href="https://join.slack.com/shareDM/zt-3tc18i8pz-rFfLgjvv8Wo8A~HtTV5KFA" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" /></a></p>
-</p>
+<table>
+  <tr>
+    <td style="border: none; padding: 0;">
+      <a href="https://linkedin.com/in/lucas-henrique-hgm" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://discord.com/users/285231836207120385" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://join.slack.com/shareDM/zt-3tc18i8pz-rFfLgjvv8Wo8A~HtTV5KFA" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
