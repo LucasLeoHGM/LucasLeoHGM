@@ -27,7 +27,7 @@ Software Engineering student focused on <strong>backend and fullstack developmen
 </div>
 
 ###
-<table align="left">
+<table align="left" style="display: none;">
   <tr>
     <td style="border: none; padding: 0 6px;">
       <a href="https://linkedin.com/in/lucas-henrique-hgm" target="_blank">
