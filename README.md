@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Lucas Henrique</h1>
+<h1>👋 Hi, I'm Lucas Henrique :D</h1>
 
 <p>
 Software Engineering student focused on <strong>backend and fullstack development</strong>. 
