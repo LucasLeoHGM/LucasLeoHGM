@@ -8,9 +8,7 @@ Software Engineering student focused on <strong>backend and fullstack developmen
 ###
 
 <p align="center">
-  <a href="https://bit.ly/gh-readme-profile">
-    <img src="https://gh-readme-profile.vercel.app/api?username=LucasLeoHGM&theme=buefy-dark&locale=en" alt="GitHub Readme Profile"/>
-  </a>
+  <a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=LucasLeoHGM&theme=buefy-dark&locale=en&hide=forks%2Cissues" alt="GitHub Readme Profile"/></a>
 </p>
 
 ###
