@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Lucas Henrique :D</h1>
 
 <p>
-Software Engineering student focused on <strong>backend and fullstack development</strong>. 
+Software Engineering student focused on <strong>backend development</strong>. 
 
 </p>
 
