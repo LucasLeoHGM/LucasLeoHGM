@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School** (Rec
 - Ministro aulas de robótica em um projeto social voltado a jovens em contexto socioeducativo
 - Gosto de problemas que unem back-end, dados e automação
 - Curto jogos e penso em ser game dev como hobby
-- **Idiomas:** Português (nativo) · Inglês (C1) · Francês (A2)
+- **Idiomas:** Português · Inglês · Francês
 
 ## Reconhecimentos
 
