@@ -1,46 +1,70 @@
-<h1>👋 Hi, I'm Lucas Henrique :D</h1>
-
-<p>
-Software Engineering student focused on <strong>backend development</strong>. 
-
-</p>
-
-###
+<h1 align="center">Lucas Henrique Gomes Medeiros</h1>
 
 <p align="center">
-  <a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=LucasLeoHGM&theme=buefy-dark&locale=en&hide=forks%2Cissues" alt="GitHub Readme Profile"/></a>
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas · Foco em Back-end</strong><br/>
+  Java · Spring Boot · C · C++ · Python · APIs REST · Arquitetura serverless
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/pacman-contribution-graph.svg" alt="Pacman animation">
-</picture>
-
-###
-
-<div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-</div>
-
-###
-
-<p align="left">
-  <a href="https://linkedin.com/in/lucas-henrique-hgm" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
-  </a>
-  <a href="https://discord.com/users/285231836207120385" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" />
-  </a>
-  <a href="https://join.slack.com/shareDM/zt-3tc18i8pz-rFfLgjvv8Wo8A~HtTV5KFA" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/lucas-henrique-hgm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/285231836207120385"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://github.com/LucasLeoHGM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucasLeoHGM/LucasLeoHGM/output/snake.svg" alt="Snake animation" />
-</div>
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School** (Recife) e já estudei **Software Engineering na Jala University**. Meu foco é o desenvolvimento **back-end**: construir serviços bem estruturados, testáveis e fáceis de manter.
+
+- Atuo em projetos acadêmicos em grupo, com versionamento, revisão de código e divisão de tarefas em tickets
+- Tenho experiência com **Java (Spring Boot)**, **Python**, **C** e **JavaScript/TypeScript**
+- Ministro aulas de robótica em um projeto social voltado a jovens em contexto socioeducativo
+- Gosto de problemas que unem back-end, dados e automação
+- Curto jogos e penso em ser game dev como hobby
+- **Idiomas:** Português · Inglês · Francês
+
+## Reconhecimentos
+
+- **2026.1:** Projeto destaque na **Tech Night 2026.1** da CESAR School, com o **FaltaFatal**
+- **2026.1:** Participação na **Mostra TechDesign 2026.1**, onde fui **líder dos projetos**
+- **2025.2:** Projeto destaque selecionado para o **Demo Day do Porto Digital**, entre os 10 melhores projetos, com o **Edu Digital**
+
+## Projetos em destaque
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [**Validador-Cartas**](https://github.com/LucasLeoHGM/Validador-Cartas) | Projeto de grupo de validação de documentos, com MVP focado em comprovante de residência. Combina extração de texto (OCR), processamento de imagem e IA. | Java, Spring Boot, OpenCV, Tesseract |
+| [**Rota_Vital_Serverless**](https://github.com/LucasLeoHGM/Rota_Vital_Serverless) | Função HTTP serverless que devolve a guia de transporte do sistema Rota Vital, executável em emulador local e opcionalmente na nuvem. | Python, serverless |
+| [**Projeto_Safyra**](https://github.com/LucasLeoHGM/Projeto_Safyra) | Projeto social de ensino de robótica para meninas, no qual atuo como instrutor. O repositório reúne o código desenvolvido nas aulas. | Python, robótica |
+| [**Dino Runner**](https://github.com/LucasLeoHGM/Dino-MOD2-LH) | Projeto antigo: jogo no estilo do dinossauro do Chrome (endless runner), feito durante um curso de programação. | Python |
+| [**FaltaFatal**](https://github.com/LucasLeoHGM/FaltaFatal) | 🏆 Projeto destaque na Tech Night 2026.1 da CESAR School. 🏆 Projeto destaque na  Mostra TechDesign 2026.1 CESAR School. Jogo de adivinhação de números com interface gráfica e progressão estilo RPG, tema cyberpunk. Salva cada sessão em arquivo e calcula estatísticas de desempenho (média de tentativas, melhor/pior resultado, desvio padrão). | C, Raylib |
+
+## Tecnologias
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,html,css" alt="Linguagens"/>
+
+**Back-end e frameworks**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,dotnet" alt="Frameworks"/>
+
+**Bancos de dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Bancos de dados"/>
+
+**Cloud, DevOps e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,linux,idea,vscode" alt="Ferramentas"/>
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasLeoHGM&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLeoHGM&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+
+## Contato
+
+Aberto a conversas sobre estágio, projetos e oportunidades em desenvolvimento back-end. O melhor canal é o [LinkedIn](https://linkedin.com/in/lucas-henrique-hgm).
