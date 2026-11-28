@@ -36,8 +36,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School** (Rec
 
 ## Reconhecimentos
 
-- **2026.1:** Projeto destaque na **Tech Night 2026.1** da CESAR School, com o **FaltaFatal**
-- **2026.1:** Participação na **Mostra TechDesign 2026.1**, onde fui **líder dos projetos**
+- **2026.1:** Projeto destaque na **Tech Night 2026.1** da CESAR School, com o **FaltaFatal**,  onde fui **Tech Lead**
+- **2026.1:** Projeto destaque na**Mostra TechDesign 2026.1**, com o **FaltaFatal**, onde fui **Tech Lead**
 - **2025.2:** Projeto destaque selecionado para o **Demo Day do Porto Digital**, entre os 10 melhores projetos, com o **Edu Digital**
 
 ## Projetos em destaque
