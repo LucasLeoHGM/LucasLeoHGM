@@ -44,7 +44,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na CESAR School** (Rec
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**Validador-Cartas**](https://github.com/LucasLeoHGM/Validador-Cartas) | Projeto de grupo de validação de documentos, com MVP focado em comprovante de residência. Combina extração de texto (OCR), processamento de imagem e IA. | Java, Spring Boot, OpenCV, Tesseract |
+| [**Validador-Cartas**](https://github.com/LucasLeoHGM/Validador-Cartas) | Projeto de grupo de validação de imagens. Combina extração de texto (OCR), processamento de imagem e IA. | Java, Spring Boot, OpenCV, Tesseract |
 | [**Rota Vital**](https://github.com/Luisr-nunes/projeto_Rota_Vital) | Projeto integrador do 3º semestre na CESAR School: aplicação web para gerenciar e distribuir hemocomponentes, inspirada na rede de sangue do SUS e com dados sintéticos. Controla estoque, atende pedidos de hospitais, aloca unidades compatíveis por validade (FEFO) e calcula rotas de entrega com cadeia fria usando Dijkstra, além de painéis de monitoramento. Trabalho em equipe de 7 pessoas. | Java, Spring Boot |
 | [**Rota_Vital_Serverless**](https://github.com/LucasLeoHGM/Rota_Vital_Serverless) | Função HTTP serverless que devolve a guia de transporte do sistema Rota Vital, executável em emulador local e opcionalmente na nuvem. | Python, serverless |
 | [**Projeto_Safyra**](https://github.com/LucasLeoHGM/Projeto_Safyra) | Projeto social de ensino de robótica para jovens em contexto socioeducativo, no qual atuo como instrutor. O repositório reúne o código desenvolvido durante as aulas. | Python, robótica |
